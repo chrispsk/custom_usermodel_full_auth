@@ -6,3 +6,5 @@ Custom User Model:
 ► Extended Profile Model (containing a "city" Field)
 ► Password Reset 
 ► Password Change
+
++ Full Validations
