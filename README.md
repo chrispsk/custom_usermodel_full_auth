@@ -3,6 +3,6 @@ Custom User Model:
 ► Registration + Email Activation 
 ► Login via email 
 ► Logout 
-► Extended Profile Model
+► Extended Profile Model (containing a "city" Field)
 ► Password Reset 
 ► Password Change
